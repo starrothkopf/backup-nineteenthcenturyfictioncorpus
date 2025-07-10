@@ -1,5 +1,5 @@
 Filtered Subset of NovelTM Dataset for English-Language Fiction, 1789-1913
-========================================================
+==========================================================
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3766610.svg)](https://doi.org/10.5281/zenodo.3766610)
 
