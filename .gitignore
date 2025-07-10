@@ -1,0 +1,14 @@
+hathi1m.csv
+gutendex/*
+.history/*
+shortstoryclassifier/shortstory_distilbert/*
+tedunderwood/*
+fiction\ classifer/*
+results/*
+shortstoryclassifier/gutenberg_novels
+shortstoryclassifier/gutenberg_shortstories
+shortstoryclassifier/gutenberg_shortstory_collections
+hathi_full_20250601.txt
+perspectiveclassifier/1st_person/*
+perspectiveclassifier/3rd_person/*
+
